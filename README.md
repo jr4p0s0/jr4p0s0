@@ -10,6 +10,11 @@
   </a>
 </div>
 
+<div id="header" align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm14NjFkZmQwbHl2MjBzMjBhMjVlNW1ncXV1Y3lobDl5MnJoOTZxOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif" width="600" hight="300"/>
+</div>
+
+
 ### 👨‍💻 About me:
 I am a **Computer Engineering** student with a great passion for **Cybersecurity**. I am self-studying in this field while advancing in my academic studies. I'm always looking for new opportunities to learn and improve my technical skills.
 
