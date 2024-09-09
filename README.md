@@ -62,7 +62,7 @@ Currently, I am delving deeper into:
 ---
 
 ### 💬 Favorite quote:
-*"Opportunities don't wait, it's we who must wait for them ;)"*
+*"Opportunities don't wait, it's us who must wait for them ;)"*
 
 ---
 
