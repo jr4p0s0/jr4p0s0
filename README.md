@@ -1,17 +1,7 @@
 # 👋 Hi there! I'm jr4p0s0
 
 <div id="header" align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWlmb2lndDU0bWluZHZmM2dsdXh6bGVraTY0N2d2bG96Y2EzMTNlNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Zebztgv7jmkoLe1DoY/giphy.gif" width="100"/>
-</div>
-
-<div id="badges" align="center">
-  <a href="https://linkedin.com/in/jrt0/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-
-<div id="header" align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm14NjFkZmQwbHl2MjBzMjBhMjVlNW1ncXV1Y3lobDl5MnJoOTZxOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif" width="600" hight="300"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2g1MzRzZ2RwdG5tcTV3dm15OGVkenp2NmEzaXduOW40YTNtOWdhaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4B9tlumUF5KrybOxVL/giphy.gif" width="600" hight="300"/>
 </div>
 
 
@@ -23,13 +13,13 @@ I am a **Computer Engineering** student with a great passion for **Cybersecurity
 ### 🚀 Technologies and Tools:
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" hight="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" hight="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" hight="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" hight="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="MarkDown" alt="MarkDown" width="40" hight="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="50" hight="50">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="50" hight="50">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="50" hight="50">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="50" hight="50">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="MarkDown" alt="MarkDown" width="50" hight="50">
 </div>
 
 ---
@@ -37,9 +27,9 @@ I am a **Computer Engineering** student with a great passion for **Cybersecurity
 ### 📖 Currently learning:
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="JS" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mariadb/mariadb-original-wordmark.svg" title="MariaDB" alt="MariaDB" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" hight="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="JS" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mariadb/mariadb-original-wordmark.svg" title="MariaDB" alt="MariaDB" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="50" hight="50">
 </div>
 
 ---
@@ -62,7 +52,14 @@ Currently, I am delving deeper into:
 ---
 
 ### ✉️ Connect with me:
-- [GitHub](https://github.com/jr4p0s0)
+<div id="badges" align="center">
+  <a href="https://linkedin.com/in/jrt0/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://github.com/jr4p0s0" align="center">
+    <img src="https://img.shields.io/badge/GitHub-jr4p0s0-blue?style=for-the-badge&logo=github"/>
+  </a>
+</div>
 
 ---
 
@@ -80,5 +77,5 @@ My projects are constantly growing, and I am open to collaborations and new idea
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jr4p0s0&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jr4p0s0&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jr4p0s0&layout=donut)](https://github.com/anuraghazra/github-readme-stats) -->
 
