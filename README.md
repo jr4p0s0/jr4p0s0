@@ -1,5 +1,15 @@
 # 👋 ¡Hola! Soy jr4p0s0
 
+<div id="header" align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWlmb2lndDU0bWluZHZmM2dsdXh6bGVraTY0N2d2bG96Y2EzMTNlNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Zebztgv7jmkoLe1DoY/giphy.gif" width="100"/>
+</div>
+
+<div id="badges">
+  <a href="https://linkedin.com/in/jrt0/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
 ### 👨‍💻 Sobre mí:
 Soy estudiante de **Ingeniería Informática** con una gran pasión por la **Ciberseguridad**. Me estoy formando por mi cuenta en este campo mientras avanzo en mis estudios académicos. Siempre estoy en busca de nuevas oportunidades para aprender y mejorar mis habilidades técnicas.
 
