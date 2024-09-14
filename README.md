@@ -76,5 +76,5 @@ My projects are constantly growing, and I am open to collaborations and new idea
 ### 📌 Stats:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jr4p0s0&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jr4p0s0&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jr4p0s0&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
