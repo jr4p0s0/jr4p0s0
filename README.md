@@ -1,7 +1,7 @@
 # 👋 Hi there! I'm jr4p0s0
 
 <div id="header" align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2g1MzRzZ2RwdG5tcTV3dm15OGVkenp2NmEzaXduOW40YTNtOWdhaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4B9tlumUF5KrybOxVL/giphy.gif" width="600" hight="300"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2hkaWVneDYzaDlyeDd4OXVjZXR5bnE5YTR6d2NtZWFwMWZuMGg0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlNaQ6gWfllcjDO/giphy.gif" width="600" hight="300"/>
 </div>
 
 
